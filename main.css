@@ -1,7 +1,6 @@
 html {
     background-color: white;
     color: black;
-    font-family: "Comic Sans MS", "Times New Roman";
 }
 
 a {
@@ -10,4 +9,33 @@ a {
 
 a:visited {
     color: purple;
+}
+
+a:hover {
+    color: red;
+}
+
+div {
+    background-color: white;
+}
+
+.plain {
+    font-family: "Times New Roman";
+}
+
+.fancy {
+    font-family: "Comic Sans MS";
+}
+
+.main {
+    margin: auto;
+    width: 90%;
+}
+
+.ambience {
+    background-color: #2E9AFE;
+}
+
+.green-arrow {
+    color: #006600;
 }
