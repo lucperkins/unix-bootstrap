@@ -1,0 +1,13 @@
+html {
+    background-color: white;
+    color: black;
+    font-family: "Comic Sans MS", "Times New Roman";
+}
+
+a {
+    color: blue;
+}
+
+a:visited {
+    color: purple;
+}
