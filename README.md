@@ -21,7 +21,7 @@ into GOLD:
 
 Here's some plain text  
 
-<a href="#" style="color: blue">Here's a fresh link</a>
+![](7.png)
 
 ![](2.png)
 
@@ -47,6 +47,6 @@ Here are some boring arrows:
 
 And here are some confident, shimmering ones!
 
-![](6.png)
+![](6.png )
 
 Inspired by [Geocities Bootstrap](http://divshot.github.io/geo-bootstrap/).
