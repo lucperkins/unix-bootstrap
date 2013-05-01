@@ -15,29 +15,29 @@ Turn this mess
 
 into GOLD:
 
-![](1.png)
+![](images/1.png)
 
 #### Text done right
 
 Here's some plain text  
 
-![](7.png)
+![](images/7.png)
 
-![](2.png)
+![](images/2.png)
 
-![](3.png)
+![](images/3.png)
 
 #### Spice up your font with the `fancy` class
 
 Turn this plain Jane text…
 
-![](4.png)
+![](images/4.png)
 
 #### Let's set the mood with the `ambience` class
 
 Here's a `<div>` without ambience…
 
-![](5.png)
+![](images/5.png)
 
 #### Putting some umph into your arrows with the `green-arrow` class
 
@@ -47,6 +47,6 @@ Here are some boring arrows:
 
 And here are some confident, shimmering ones!
 
-![](6.png )
+![](images/6.png )
 
 Inspired by [Geocities Bootstrap](http://divshot.github.io/geo-bootstrap/).
