@@ -1,41 +1,47 @@
 html {
-    background-color: white;
-    color: black;
+    background-color: white !important;
+    color: black !important;
 }
 
 a {
-    color: blue;
+    color: blue !important;
 }
 
 a:visited {
-    color: purple;
+    color: purple !important;
 }
 
 a:hover {
-    color: red;
+    color: red !important;
 }
 
 div {
-    background-color: white;
+    background-color: white !important;
 }
 
 .plain {
-    font-family: "Times New Roman";
+    font-family: "Times New Roman" !important;
 }
 
 .fancy {
-    font-family: "Comic Sans MS";
+    font-family: "Comic Sans MS" !important;
 }
 
 .main {
-    margin: auto;
-    width: 90%;
+    margin: auto !important;
+    width: 90% !important;
 }
 
 .ambience {
-    background-color: #2E9AFE;
+    background-color: #2E9AFE !important;
 }
 
 .green-arrow {
-    color: #006600;
+    color: #006600 !important;
+}
+
+.banner {
+    background-color: #e0e0ff !important;
+    border: 1px solid black !important;
+    color: blue !important;
 }
