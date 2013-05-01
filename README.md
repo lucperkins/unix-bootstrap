@@ -15,7 +15,7 @@ Turn this mess
 
 into GOLD:
 
-<h1 style="background-color:#e0e0ff;border: 1px solid black;color: blue;">Welcome to my awk tutorial!</h1>
+![](1.png)
 
 #### Text done right
 
@@ -23,21 +23,21 @@ Here's some plain text
 
 <a href="#" style="color: blue">Here's a fresh link</a>
 
-<a href="#" style="color: purple">Here's a visited link</a>
+![](2.png)
 
-<a href="#" style="color: red">And here's when you hover!</a>
+![](3.png)
 
 #### Spice up your font with the `fancy` class
 
 Turn this plain Jane text…
 
-<p style="font-family: Comic Sans MS">…into this hot dynamite!</p>
+![](4.png)
 
 #### Let's set the mood with the `ambience` class
 
 Here's a `<div>` without ambience…
 
-<div style="background-color: #2E9AFE">…and here's one with it!</div>
+![](5.png)
 
 #### Putting some umph into your arrows with the `green-arrow` class
 
@@ -47,6 +47,6 @@ Here are some boring arrows:
 
 And here are some confident, shimmering ones!
 
-<p style="color: #006600">»»»»»»»»</p>
+![](6.png)
 
 Inspired by [Geocities Bootstrap](http://divshot.github.io/geo-bootstrap/).
